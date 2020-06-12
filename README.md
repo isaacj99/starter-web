@@ -12,3 +12,6 @@ This is a simple web project, deployment can be on any web server
 This is a simple web project, deployment can be on any web server
 
 ## How To Contribute
+
+##Copyright
+Coipyright 2020
