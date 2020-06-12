@@ -1,6 +1,6 @@
 # Starter Web Repo
 This is a simple reader
-Adding a line for rebasing example
+Adding a line for rebasing example,
 ## Introduction
 Hi my name is Jake
 
